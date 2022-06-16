@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @abhiii1016
+- 👀 I’m interested in exploring new ideas.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on new idea development. 
+- 📫 How to reach me abhimhaske1016@gmail.com 
